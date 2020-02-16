@@ -11,9 +11,9 @@ HTML has 6 levls of heading:-
 
 #### notice : H1 means more important than H2 ... H5 more important than H6 also H1 text size bigger than h2.
 
-### <b> means bold and <i> means italic 
+### b means bold and i means italic 
 
-### <sup> used to make the char above and smaller while <sub> will move the char belove and make it smaller.
+### <sup> sup used to make the char above and smaller while <sub>sub will move the char belove and make it smaller.
 
 ### White space : browser comes across two or more spaces next to each other, it only displays one space.
 
