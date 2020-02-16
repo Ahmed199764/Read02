@@ -2,12 +2,12 @@
 
 # Heading 
 HTML has 6 levls of heading:-
-1. <h1> used for main heading
-2. <h2> using for subheading
-3. <h3> further sections under the subheadings
-4. <h4>
-5. <h5>
-6. <h6>
+1. h1 used for main heading
+2. h2 using for subheading
+3. h3 further sections under the subheadings
+4. h4
+5. h5
+6. h6
 
 #### notice : H1 means more important than H2 ... H5 more important than H6 also H1 text size bigger than h2.
 
