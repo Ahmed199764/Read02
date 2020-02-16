@@ -29,7 +29,7 @@ HTML has 6 levls of heading:-
 
 ### ins will be a underline while del a line a cross the word.
 
-### The <s> element indicates something that is no longer accurate or relevant (but that should not be deleted)
+### The s element indicates something that is no longer accurate or relevant (but that should not be deleted)
 
 # typs of Selectors :-
 1. universaL selector
