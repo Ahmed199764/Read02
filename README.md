@@ -27,7 +27,7 @@ HTML has 6 levls of heading:-
 
 ### The <address> element has quite a specific use: to contain contact details for the author of the page.
 
-### <ins> will be a underline while <del> a line a cross the word.
+### ins will be a underline while del a line a cross the word.
 
 ### The <s> element indicates something that is no longer accurate or relevant (but that should not be deleted)
 
