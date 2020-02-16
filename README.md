@@ -17,15 +17,15 @@ HTML has 6 levls of heading:-
 
 ### White space : browser comes across two or more spaces next to each other, it only displays one space.
 
-### <br /> it used to start new line while <hr /> used to break between themes.
+###  br <br /> it used to start new line while hr <hr /> used to break between themes.
 
 ### <strong> means bold and <em> means italic 
 
-### <blockquote>  element is used for longer quotes that take up an entire paragraph while <q> used for shorter quotes that sit within a paragraph.
+### blockquote <blockquote> element is used for longer quotes that take up an entire paragraph while <q> used for shorter quotes that sit within a paragraph.
 
-### <abbr> is a title attribute on the opening tag is used to specify the full term.
+### abbr <abbr> is a title attribute on the opening tag is used to specify the full term.
 
-### The <address> element has quite a specific use: to contain contact details for the author of the page.
+### The address <address> element has quite a specific use: to contain contact details for the author of the page.
 
 ### ins will be a underline while del a line a cross the word.
 
